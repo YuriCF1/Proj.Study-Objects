@@ -18,3 +18,4 @@ function ordenar(lista, propriedade) {
 const ordenadoPorNome = ordenar(clientes, "nome");
 
 console.log(ordenadoPorNome);
+// console.log(ordenadoPorNome.reverse()); //Revertendo a ordem do array
